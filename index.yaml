@@ -53,6 +53,16 @@ entries:
     version: 0.0.1
   listing-placeholder:
   - apiVersion: v2
+    appVersion: 0.0.6
+    created: "2021-11-09T21:50:26.077569876Z"
+    description: A Helm chart for Kubernetes
+    digest: a4b8041e0e6651551b8a07a5f7222c5d32c19f6d2e3a5a29954ad0454ea693ec
+    name: listing-placeholder
+    type: application
+    urls:
+    - https://opportunitygopher.github.io/og-charts/listing-placeholder-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v2
     appVersion: 0.0.5
     created: "2021-11-09T21:24:00.7575967Z"
     description: A Helm chart for Kubernetes
@@ -579,4 +589,4 @@ entries:
     urls:
     - https://opportunitygopher.github.io/og-charts/user-listings-0.0.1.tgz
     version: 0.0.1
-generated: "2021-11-09T21:49:44.975182715Z"
+generated: "2021-11-09T21:50:26.076794371Z"
