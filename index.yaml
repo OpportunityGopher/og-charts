@@ -205,6 +205,16 @@ entries:
     version: 0.0.2
   metrics-calculator:
   - apiVersion: v2
+    appVersion: 0.0.5
+    created: "2021-11-09T21:27:59.529989888Z"
+    description: A Helm chart for Kubernetes
+    digest: 0aced8254f73f4c8c95dc63055db48538eb13da7ed1e46775b1aaba51eed25a0
+    name: metrics-calculator
+    type: application
+    urls:
+    - https://opportunitygopher.github.io/og-charts/metrics-calculator-0.0.5.tgz
+    version: 0.0.5
+  - apiVersion: v2
     appVersion: 0.0.4
     created: "2021-11-07T23:38:56.774459535Z"
     description: A Helm chart for Kubernetes
@@ -529,4 +539,4 @@ entries:
     urls:
     - https://opportunitygopher.github.io/og-charts/user-listings-0.0.1.tgz
     version: 0.0.1
-generated: "2021-11-09T21:27:41.061356439Z"
+generated: "2021-11-09T21:27:59.529121478Z"
