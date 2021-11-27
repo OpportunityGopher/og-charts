@@ -769,6 +769,16 @@ entries:
     version: 0.0.1
   user:
   - apiVersion: v2
+    appVersion: 0.0.26
+    created: "2021-11-27T18:07:15.937701433Z"
+    description: User Configuration Services
+    digest: 78e4b6ec9d0b97b3fa9154822a28eab637a1c6c974a6c944967fa089b5f3b4fc
+    name: user
+    type: application
+    urls:
+    - https://opportunitygopher.github.io/og-charts/user-0.0.26.tgz
+    version: 0.0.26
+  - apiVersion: v2
     appVersion: 0.0.24
     created: "2021-11-15T00:37:53.938230363Z"
     description: User Configuration Services
@@ -919,4 +929,4 @@ entries:
     urls:
     - https://opportunitygopher.github.io/og-charts/user-listings-0.0.1.tgz
     version: 0.0.1
-generated: "2021-11-17T02:20:51.176546851Z"
+generated: "2021-11-27T18:07:15.936918224Z"
