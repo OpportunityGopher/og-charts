@@ -778,6 +778,16 @@ entries:
     version: 0.0.1
   rental-estimate:
   - apiVersion: v2
+    appVersion: 0.0.8
+    created: "2021-12-12T20:26:44.08273014Z"
+    description: A Helm chart for Kubernetes
+    digest: 010b9a5c23e3291a5dfb4fc761bfd086547d1caf7ff2902530c6459067b79e49
+    name: rental-estimate
+    type: application
+    urls:
+    - https://opportunitygopher.github.io/og-charts/rental-estimate-0.0.8.tgz
+    version: 0.0.8
+  - apiVersion: v2
     appVersion: 0.0.7
     created: "2021-12-12T19:03:11.321429727Z"
     description: A Helm chart for Kubernetes
@@ -1029,4 +1039,4 @@ entries:
     urls:
     - https://opportunitygopher.github.io/og-charts/user-listings-0.0.1.tgz
     version: 0.0.1
-generated: "2021-12-12T19:07:21.492271145Z"
+generated: "2021-12-12T20:26:44.081893529Z"
