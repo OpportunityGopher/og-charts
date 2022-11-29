@@ -1209,6 +1209,16 @@ entries:
     version: 0.0.1
   user:
   - apiVersion: v2
+    appVersion: 1.2.2
+    created: "2022-11-29T01:31:22.315384204Z"
+    description: A Helm chart for Kubernetes
+    digest: 4a4a9002d4c2fa2e7ded5e9a70614cdc248f082a438129f4d4f7da29911b862b
+    name: user
+    type: application
+    urls:
+    - https://opportunitygopher.github.io/og-charts/user-1.2.2.tgz
+    version: 1.2.2
+  - apiVersion: v2
     appVersion: 1.2.0
     created: "2022-11-26T22:38:24.095667759Z"
     description: A Helm chart for Kubernetes
@@ -1459,4 +1469,4 @@ entries:
     urls:
     - https://opportunitygopher.github.io/og-charts/user-listings-0.0.1.tgz
     version: 0.0.1
-generated: "2022-11-28T03:17:49.267940319Z"
+generated: "2022-11-29T01:31:22.314303061Z"
