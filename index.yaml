@@ -1126,6 +1126,17 @@ entries:
     urls:
     - https://opportunitygopher.github.io/og-charts/opportunity-notification-0.0.1.tgz
     version: 0.0.1
+  rapidapi-listings:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-12-10T17:48:48.093542606Z"
+    description: A Helm chart for Kubernetes
+    digest: 0627d33aa8a92a5fa8e6fba3aa5ead0e74b1edda6a4b2d82f035a881d19747ef
+    name: rapidapi-listings
+    type: application
+    urls:
+    - https://opportunitygopher.github.io/og-charts/rapidapi-listings-1.0.0.tgz
+    version: 1.0.0
   rental-estimate:
   - apiVersion: v2
     appVersion: 1.2.2
@@ -1519,4 +1530,4 @@ entries:
     urls:
     - https://opportunitygopher.github.io/og-charts/user-listings-0.0.1.tgz
     version: 0.0.1
-generated: "2022-12-03T19:06:32.473264338Z"
+generated: "2022-12-10T17:48:48.092468707Z"
