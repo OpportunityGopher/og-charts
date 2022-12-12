@@ -1208,6 +1208,16 @@ entries:
     version: 0.0.1
   rapidapi-listings:
   - apiVersion: v2
+    appVersion: 1.1.2
+    created: "2022-12-12T01:39:53.391674499Z"
+    description: A Helm chart for Kubernetes
+    digest: c89b3cfd636aad9c83778a4011c2ff8b3bbbedff4ee875e1aeca183e2997d274
+    name: rapidapi-listings
+    type: application
+    urls:
+    - https://opportunitygopher.github.io/og-charts/rapidapi-listings-1.1.2.tgz
+    version: 1.1.2
+  - apiVersion: v2
     appVersion: 1.0.0
     created: "2022-12-10T17:48:48.093542606Z"
     description: A Helm chart for Kubernetes
@@ -1630,4 +1640,4 @@ entries:
     urls:
     - https://opportunitygopher.github.io/og-charts/user-listings-0.0.1.tgz
     version: 0.0.1
-generated: "2022-12-12T01:15:52.426290959Z"
+generated: "2022-12-12T01:39:53.389842707Z"
