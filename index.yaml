@@ -673,6 +673,16 @@ entries:
     version: 0.0.2
   og-bff:
   - apiVersion: v2
+    appVersion: 1.0.3
+    created: "2023-05-12T21:06:54.112878694Z"
+    description: A Helm chart for Kubernetes
+    digest: e779f7a51704af5a731ab3111770831aa399852442b24928aa4bc8bc85e4a870
+    name: og-bff
+    type: application
+    urls:
+    - https://opportunitygopher.github.io/og-charts/og-bff-1.0.3.tgz
+    version: 1.0.3
+  - apiVersion: v2
     appVersion: 1.0.2
     created: "2023-05-12T20:53:18.681258521Z"
     description: A Helm chart for Kubernetes
@@ -1544,4 +1554,4 @@ entries:
     urls:
     - https://opportunitygopher.github.io/og-charts/user-0.0.16.tgz
     version: 0.0.16
-generated: "2023-05-12T20:53:18.679740799Z"
+generated: "2023-05-12T21:06:54.112154793Z"
